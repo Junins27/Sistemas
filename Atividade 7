@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<style>
+body {
+background-color: #191919;
+background-image: url(https://1.bp.blogspot.com/--XstY_R8PGU/XsME3S82fMI/AAAAAAAAv8Y/5BdK_Y4-UDsFSDfSesI2jmaMYzUg3L_zwCLcBGAsYHQ/s2560/forest_sunset_winter_140313_3840x2160.jpg);
+}
+textarea {
+	resize : none;
+}
+.rod div{
+	font-size: 30px;
+}
+html, body {height:100%;}
+
+.geral div{
+	min-height:100%;
+	position: relative;
+	background-image: url();
+}
+
+.footer div{
+	position: absolute;
+	bottom: 0
+	width:100%;
+	font-size: 15px
+
+}
+.caixa {
+    min-width: 150px;
+    max-width: 500px;
+    width: 100%;
+  }
+
+  #msg{ width: 700px; height: 15px; resize: none; }
+
+  footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+}
+
+
+
+</style>
+<body>
+  <div class="geral">	
+	<div align="Center" background-color="black">
+	   <h1><font size="3" color="#ff0000" >Bem vindo</font><font size="3" color="#f7ff00" > a nova</font><font size="3" color="#00ff00" > interface do</font><font size="3" color="#00bfff" > Google!!!</font></h1>
+    </div>
+   <div align="Center">
+<img src="https://logospng.org/download/google/logo-google-512.png" width= "500">
+   </div>
+
+
+   
+<form>
+	<div align="Center">
+<textarea id="msg" name="msg" minlength="10" maxlength="94"  placeholder="Pesquisar na Web (a pagina e meramente ilustrativa)" row="3" ></textarea>
+    </div>
+</form>
+
+<div align="Center">
+<form>
+	<font size="5.5" face="arial" color="#a0a0a0">
+<INPUT TYPE="RADIO" NAME="OPCAO" VALUE="op1"> Pesquisa Padrão<br>
+<INPUT TYPE="RADIO" NAME="OPCAO" VALUE="op2"> Estou com sorte?
+</form>
+</div>
+</INPUT>
+</INPUT>
+</font>
+
+<font color="white">
+	<footer>
+<div class="footer">
+Google.INC Osmar Junior 2021
+</div>
+</font>
+</footer>
+</body>
